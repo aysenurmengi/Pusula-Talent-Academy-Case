@@ -1,1 +1,1 @@
-# Pusula-Talent-Academy-Case
+# Full-Stack Case Study
